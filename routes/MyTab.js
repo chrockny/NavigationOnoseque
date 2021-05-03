@@ -8,7 +8,7 @@ const MyTab = () => {
         <Tab.Navigator>
             <Tab.Screen name="Home"
             component={HomeStack}/>
-            <Tab.Screen name="About"
+            <Tab.Screen name="Done"
             component={AboutStack}/>
         </Tab.Navigator>
     )
